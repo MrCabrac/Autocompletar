@@ -1,0 +1,1654 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R
+ /F4 7 0 R
+ /F5 8 0 R
+ /F6 15 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font Times-Roman
+<< /BaseFont /Times-Roman
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:ralsina@netmanagers.com.ar) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 185.4126
+ 260.0582
+ 316.7126
+ 272.0582 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Annots [ 5 0 R ]
+ /Contents 35 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 34 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F4': class PDFType1Font 
+7 0 obj
+% Font Courier-Bold
+<< /BaseFont /Courier-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F5': class PDFType1Font 
+8 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F5
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page2': class PDFPage 
+9 0 obj
+% Page dictionary
+<< /Contents 36 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 34 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page3': class PDFPage 
+10 0 obj
+% Page dictionary
+<< /Contents 37 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 34 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page4': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Contents 38 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 34 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page5': class PDFPage 
+12 0 obj
+% Page dictionary
+<< /Contents 39 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 34 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page6': class PDFPage 
+13 0 obj
+% Page dictionary
+<< /Contents 40 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 34 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page7': class PDFPage 
+14 0 obj
+% Page dictionary
+<< /Contents 41 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 34 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F6': class PDFType1Font 
+15 0 obj
+% Font Courier-Oblique
+<< /BaseFont /Courier-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F6
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page8': class PDFPage 
+16 0 obj
+% Page dictionary
+<< /Contents 42 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 34 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page9': class PDFPage 
+17 0 obj
+% Page dictionary
+<< /Contents 43 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 34 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page10': class PDFPage 
+18 0 obj
+% Page dictionary
+<< /Contents 44 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 34 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page11': class PDFPage 
+19 0 obj
+% Page dictionary
+<< /Contents 45 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 34 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R20': class PDFCatalog 
+20 0 obj
+% Document Root
+<< /Outlines 22 0 R
+ /PageMode /UseNone
+ /Pages 34 0 R
+ /Type /Catalog >>
+endobj
+% 'R21': class PDFInfo 
+21 0 obj
+<< /Author ()
+ /CreationDate (D:20090904155735+03'00')
+ /Keywords ()
+ /Producer (ReportLab http://www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title () >>
+endobj
+% 'R22': class PDFOutlines 
+22 0 obj
+<< /Count 12
+ /First 23 0 R
+ /Last 33 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+23 0 obj
+<< /Dest [ 6 0 R
+ /Fit ]
+ /Next 24 0 R
+ /Parent 22 0 R
+ /Title (Como Escribir un Corrector Ortografico en 20 Lineas) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+24 0 obj
+<< /Dest [ 9 0 R
+ /Fit ]
+ /Next 25 0 R
+ /Parent 22 0 R
+ /Prev 23 0 R
+ /Title (El Codigo) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+25 0 obj
+<< /Dest [ 11 0 R
+ /Fit ]
+ /Next 26 0 R
+ /Parent 22 0 R
+ /Prev 24 0 R
+ /Title (Como funciona \(La teoria\)) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+26 0 obj
+<< /Dest [ 12 0 R
+ /Fit ]
+ /Next 27 0 R
+ /Parent 22 0 R
+ /Prev 25 0 R
+ /Title (Codigo!!!!!) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+27 0 obj
+<< /Dest [ 13 0 R
+ /Fit ]
+ /Next 28 0 R
+ /Parent 22 0 R
+ /Prev 26 0 R
+ /Title (Calculando P\(c\)) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+28 0 obj
+<< /Count 1
+ /Dest [ 14 0 R
+ /Fit ]
+ /First 29 0 R
+ /Last 29 0 R
+ /Next 30 0 R
+ /Parent 22 0 R
+ /Prev 27 0 R
+ /Title (Calculando P\(w|c\)) >>
+endobj
+% 'Outline.12.0': class OutlineEntryObject 
+29 0 obj
+<< /Dest [ 14 0 R
+ /Fit ]
+ /Parent 28 0 R
+ /Title (Que quiere decir parecida?) >>
+endobj
+% 'Outline.6': class OutlineEntryObject 
+30 0 obj
+<< /Dest [ 16 0 R
+ /Fit ]
+ /Next 31 0 R
+ /Parent 22 0 R
+ /Prev 28 0 R
+ /Title (CODIGO!!!!) >>
+endobj
+% 'Outline.7': class OutlineEntryObject 
+31 0 obj
+<< /Dest [ 17 0 R
+ /Fit ]
+ /Next 32 0 R
+ /Parent 22 0 R
+ /Prev 30 0 R
+ /Title (SON DEMASIADAS!) >>
+endobj
+% 'Outline.8': class OutlineEntryObject 
+32 0 obj
+<< /Dest [ 18 0 R
+ /Fit ]
+ /Next 33 0 R
+ /Parent 22 0 R
+ /Prev 31 0 R
+ /Title (ESTIMANDO P\(w|c\)) >>
+endobj
+% 'Outline.9': class OutlineEntryObject 
+33 0 obj
+<< /Dest [ 19 0 R
+ /Fit ]
+ /Parent 22 0 R
+ /Prev 32 0 R
+ /Title (Y funciona????) >>
+endobj
+% 'R34': class PDFPages 
+34 0 obj
+% page tree
+<< /Count 11
+ /Kids [ 6 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R ]
+ /Type /Pages >>
+endobj
+% 'R35': class PDFStream 
+35 0 obj
+% page stream
+<< /Length 1343 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 316.4882 cm
+Q
+q
+1 0 0 1 20.17323 316.4882 cm
+Q
+q
+1 0 0 1 20.17323 274.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.435 Tm /F2 17.5 Tf 21 TL (Como Escribir un Corrector Ortografico en 20) Tj T* (Lineas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 268.4882 cm
+Q
+q
+1 0 0 1 20.17323 253.4882 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 42.47937 0 Td (Habla:) Tj T* -42.47937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12.07 TL /F1 10 Tf 0 0 0 rg (Roberto Alsina <) Tj 0 0 .501961 rg (ralsina@netmanagers.com.ar) Tj 0 0 0 rg (>) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 238.4882 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 35.26937 0 Td (Codigo:) Tj T* -35.26937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12.07 TL /F1 10 Tf 0 0 0 rg (Norvig & Bacon) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 238.4882 cm
+Q
+q
+1 0 0 1 14.17323 322.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 88.80681 0 Td (Como Escribir un Corrector Ortografico en 20 Lineas) Tj T* -88.80681 0 Td ET
+Q
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 202.7318 0 Td (1) Tj T* -202.7318 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R36': class PDFStream 
+36 0 obj
+% page stream
+<< /Length 5333 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 316.4882 cm
+Q
+q
+1 0 0 1 20.17323 295.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 8.435 Tm /F2 17.5 Tf 21 TL (El Codigo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 289.4882 cm
+Q
+q
+1 0 0 1 20.17323 41.61929 cm
+q
+q
+.94735 0 0 .94735 0 0 cm
+q
+1 0 0 1 6.6 6.966806 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 420 252 re B*
+Q
+q
+BT 1 0 0 1 0 233.71 Tm 12 TL /F4 10 Tf 0 .501961 0 rg (import) Tj /F5 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf 0 0 1 rg (re) Tj /F5 10 Tf .4 .4 .4 rg (,) Tj 0 0 0 rg ( ) Tj /F4 10 Tf 0 0 1 rg (collections) Tj /F5 10 Tf 0 0 0 rg  T*  T* /F4 10 Tf 0 .501961 0 rg (def) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (words) Tj 0 0 0 rg (\() Tj (text) Tj (\):) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (return) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (re) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (findall) Tj (\() Tj .729412 .129412 .129412 rg ('[a-z]+') Tj 0 0 0 rg (,) Tj ( ) Tj (text) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (lower) Tj (\(\)\)) Tj  T*  T* /F4 10 Tf 0 .501961 0 rg (def) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (train) Tj 0 0 0 rg (\() Tj (features) Tj (\):) Tj  T* (    ) Tj (model) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (collections) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (defaultdict) Tj (\() Tj /F4 10 Tf 0 .501961 0 rg (lambda) Tj /F5 10 Tf 0 0 0 rg (:) Tj ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj  T* (    ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (f) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (features) Tj (:) Tj  T* (        ) Tj (model) Tj ([) Tj (f) Tj (]) Tj ( ) Tj .4 .4 .4 rg (+=) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg  T* (    ) Tj /F4 10 Tf 0 .501961 0 rg (return) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (model) Tj  T*  T* (NWORDS) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (train) Tj (\() Tj (words) Tj (\() Tj 0 .501961 0 rg (file) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ('big.txt') Tj 0 0 0 rg (\)) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (read) Tj (\(\)\)\)) Tj  T*  T* (alphabet) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('abcdefghijklmnopqrstuvwxyz') Tj 0 0 0 rg  T*  T* /F4 10 Tf 0 .501961 0 rg (def) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (edits1) Tj 0 0 0 rg (\() Tj (word) Tj (\):) Tj  T* (   ) Tj (s) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj ([\() Tj (word) Tj ([:) Tj (i) Tj (],) Tj ( ) Tj (word) Tj ([) Tj (i) Tj (:]\)) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (i) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 .501961 0 rg (range) Tj 0 0 0 rg (\() Tj 0 .501961 0 rg (len) Tj 0 0 0 rg (\() Tj (word) Tj (\)) Tj ( ) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)]) Tj  T* (   ) Tj (deletes) Tj (    ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj ([) Tj (a) Tj ( ) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg ( ) Tj (b) Tj ([) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (:]) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (a) Tj (,) Tj ( ) Tj (b) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (s) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (if) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (b) Tj (]) Tj  T* (   ) Tj (transposes) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj ([) Tj (a) Tj ( ) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg ( ) Tj (b) Tj ([) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (]) Tj ( ) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg ( ) Tj (b) Tj ([) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (]) Tj ( ) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg ( ) Tj (b) Tj ([) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (:]) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (a) Tj (,) Tj ( ) Tj (b) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (s) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (if) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 .501961 0 rg (len) Tj 0 0 0 rg (\() Tj (b) Tj (\)) Tj .4 .4 .4 rg (>) Tj (1) Tj 0 0 0 rg (]) Tj  T* (   ) Tj (replaces) Tj (   ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj ([) Tj (a) Tj ( ) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg ( ) Tj (c) Tj ( ) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg ( ) Tj (b) Tj ([) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (:]) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (a) Tj (,) Tj ( ) Tj (b) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (s) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (c) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (alphabet) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (if) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (b) Tj (]) Tj  T* (   ) Tj (inserts) Tj (    ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj ([) Tj (a) Tj ( ) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg ( ) Tj (c) Tj ( ) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg ( ) Tj (b) Tj (     ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (a) Tj (,) Tj ( ) Tj (b) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (s) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (c) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (alphabet) Tj (]) Tj  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 14.17323 322.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 183.8368 0 Td (El Codigo) Tj T* -183.8368 0 Td ET
+Q
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 202.7318 0 Td (2) Tj T* -202.7318 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R37': class PDFStream 
+37 0 obj
+% page stream
+<< /Length 3010 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 214.9019 cm
+q
+q
+.76266 0 0 .76266 0 0 cm
+q
+1 0 0 1 6.6 8.653924 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 522 132 re B*
+Q
+q
+BT 1 0 0 1 0 113.71 Tm 12 TL /F5 10 Tf 0 0 0 rg (   ) Tj /F4 10 Tf 0 .501961 0 rg (return) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (set) Tj (\() Tj (deletes) Tj ( ) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg ( ) Tj (transposes) Tj ( ) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg ( ) Tj (replaces) Tj ( ) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg ( ) Tj (inserts) Tj (\)) Tj  T*  T* /F4 10 Tf 0 .501961 0 rg (def) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (known_edits2) Tj 0 0 0 rg (\() Tj (word) Tj (\):) Tj  T* (    ) Tj /F4 10 Tf 0 .501961 0 rg (return) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (set) Tj (\() Tj (e2) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (e1) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (edits1) Tj (\() Tj (word) Tj (\)) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (e2) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (edits1) Tj (\() Tj (e1) Tj (\)) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (if) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (e2) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (NWORDS) Tj (\)) Tj  T*  T* /F4 10 Tf 0 .501961 0 rg (def) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (known) Tj 0 0 0 rg (\() Tj (words) Tj (\):) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (return) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (set) Tj (\() Tj (w) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (w) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (words) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (if) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (w) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (NWORDS) Tj (\)) Tj  T*  T* /F4 10 Tf 0 .501961 0 rg (def) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (correct) Tj 0 0 0 rg (\() Tj (word) Tj (\):) Tj  T* (    ) Tj (candidates) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (known) Tj (\([) Tj (word) Tj (]\)) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (or) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (known) Tj (\() Tj (edits1) Tj (\() Tj (word) Tj (\)\)) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (or) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (known_edits2) Tj (\() Tj (word) Tj (\)) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (or) Tj /F5 10 Tf 0 0 0 rg ( ) Tj ([) Tj (word) Tj (]) Tj  T* (    ) Tj /F4 10 Tf 0 .501961 0 rg (return) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 .501961 0 rg (max) Tj 0 0 0 rg (\() Tj (candidates) Tj (,) Tj ( ) Tj (key) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (NWORDS) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (get) Tj (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 206.9019 cm
+Q
+q
+1 0 0 1 14.17323 322.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 183.8368 0 Td (El Codigo) Tj T* -183.8368 0 Td ET
+Q
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 202.7318 0 Td (3) Tj T* -202.7318 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R38': class PDFStream 
+38 0 obj
+% page stream
+<< /Length 3410 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 316.4882 cm
+Q
+q
+1 0 0 1 20.17323 295.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 8.435 Tm /F2 17.5 Tf 21 TL (Como funciona \(La teoria\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 289.4882 cm
+Q
+q
+1 0 0 1 20.17323 271.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Todo esto es culpa del teorema de Bayes \(ignorenme!\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 253.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Queremos saber en que palabra estaba pensando el usuario. Entonces:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 251.4882 cm
+Q
+q
+1 0 0 1 20.17323 239.4882 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Cual es la probabilidad de que sea exactamente lo que escribio? P\(w\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 227.4882 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Dado un reemplazo c, cual es la probabilidad que sea esa? P\(c\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 215.4882 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Cual es la probabilidad de que haya puesto w queriendo poner c? P\(w|c\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 147.4882 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 56 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 56 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (En realidad, queremos maximizar P\(w|c\) * P\(c\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 26 38 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (O sea: queremos la palabra c mas probable que se parezca mas a w.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 26 36 cm
+Q
+q
+1 0 0 1 26 24 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Si es muy distinta de w, c no nos sirve \(w=berde, c=hola\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 12 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Si es muy rara, no nos sirve \(w=verdo, c=bardo\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 0 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Si es comun y parecida, c es genial!) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 147.4882 cm
+Q
+q
+1 0 0 1 14.17323 322.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 147.7118 0 Td (Como funciona \(La teoria\)) Tj T* -147.7118 0 Td ET
+Q
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 202.7318 0 Td (4) Tj T* -202.7318 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R39': class PDFStream 
+39 0 obj
+% page stream
+<< /Length 646 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 316.4882 cm
+Q
+q
+1 0 0 1 20.17323 295.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 8.435 Tm /F2 17.5 Tf 21 TL (Codigo!!!!!) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 289.4882 cm
+Q
+q
+1 0 0 1 20.17323 271.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (POR FAVOR!) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 271.4882 cm
+Q
+q
+1 0 0 1 14.17323 322.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 182.7218 0 Td (Codigo!!!!!) Tj T* -182.7218 0 Td ET
+Q
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 202.7318 0 Td (5) Tj T* -202.7318 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R40': class PDFStream 
+40 0 obj
+% page stream
+<< /Length 3094 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 316.4882 cm
+Q
+q
+1 0 0 1 20.17323 295.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 8.435 Tm /F2 17.5 Tf 21 TL (Calculando P\(c\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 289.4882 cm
+Q
+q
+1 0 0 1 20.17323 287.4882 cm
+Q
+q
+1 0 0 1 20.17323 275.4882 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Agarra un montooooooon de texto y conta las palabras.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 263.4882 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Indexalo por palabra) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 251.4882 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Listo) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 122.2882 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 397.8236 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F4 10 Tf 0 .501961 0 rg (def) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (words) Tj 0 0 0 rg (\() Tj (text) Tj (\):) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (return) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (re) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (findall) Tj (\() Tj .729412 .129412 .129412 rg ('[a-z]+') Tj 0 0 0 rg (,) Tj ( ) Tj (text) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (lower) Tj (\(\)\)) Tj  T*  T* /F4 10 Tf 0 .501961 0 rg (def) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (train) Tj 0 0 0 rg (\() Tj (features) Tj (\):) Tj  T* (    ) Tj (model) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (collections) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (defaultdict) Tj (\() Tj /F4 10 Tf 0 .501961 0 rg (lambda) Tj /F5 10 Tf 0 0 0 rg (:) Tj ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj  T* (    ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (f) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (features) Tj (:) Tj  T* (        ) Tj (model) Tj ([) Tj (f) Tj (]) Tj ( ) Tj .4 .4 .4 rg (+=) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg  T* (    ) Tj /F4 10 Tf 0 .501961 0 rg (return) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (model) Tj  T*  T* (NWORDS) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (train) Tj (\() Tj (words) Tj (\() Tj 0 .501961 0 rg (file) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ('big.txt') Tj 0 0 0 rg (\)) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (read) Tj (\(\)\)\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 114.2882 cm
+Q
+q
+1 0 0 1 14.17323 322.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 169.9468 0 Td (Calculando P\(c\)) Tj T* -169.9468 0 Td ET
+Q
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 202.7318 0 Td (6) Tj T* -202.7318 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R41': class PDFStream 
+41 0 obj
+% page stream
+<< /Length 2485 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 316.4882 cm
+Q
+q
+1 0 0 1 20.17323 295.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 8.435 Tm /F2 17.5 Tf 21 TL (Calculando P\(w|c\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 289.4882 cm
+Q
+q
+1 0 0 1 20.17323 289.4882 cm
+Q
+q
+1 0 0 1 20.17323 259.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 7.23 Tm /F2 15 Tf 18 TL (Que quiere decir parecida?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 253.4882 cm
+Q
+q
+1 0 0 1 20.17323 251.4882 cm
+Q
+q
+1 0 0 1 20.17323 171.4882 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Distancia de edicion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 26 50 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Cuantas veces tengo que editar una palabra para convertirla en otra.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 26 48 cm
+Q
+q
+1 0 0 1 26 36 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12.07 TL /F1 10 Tf 0 0 0 rg (hola -) Tj (> bola = 1 \(alteracion\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 24 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12.07 TL /F1 10 Tf 0 0 0 rg (hola -) Tj (> ola = 1 \(eliminacion\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 12 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12.07 TL /F1 10 Tf 0 0 0 rg (hola -) Tj (> holas = 1 \(insercion\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 0 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12.07 TL /F1 10 Tf 0 0 0 rg (hola -) Tj (> ohla = 1 \(transposicion\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 171.4882 cm
+Q
+q
+1 0 0 1 14.17323 322.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 165.0368 0 Td (Calculando P\(w|c\)) Tj T* -165.0368 0 Td ET
+Q
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 202.7318 0 Td (7) Tj T* -202.7318 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R42': class PDFStream 
+42 0 obj
+% page stream
+<< /Length 5016 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 316.4882 cm
+Q
+q
+1 0 0 1 20.17323 295.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 8.435 Tm /F2 17.5 Tf 21 TL (CODIGO!!!!) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 289.4882 cm
+Q
+q
+1 0 0 1 20.17323 271.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Aca viene...) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 253.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Esto te da el conjunto de todas las palabrs a distancia 1 de otra:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 185.97 cm
+q
+q
+.698571 0 0 .698571 0 0 cm
+q
+1 0 0 1 6.6 9.447862 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 570 84 re B*
+Q
+q
+BT 1 0 0 1 0 65.71 Tm 12 TL /F4 10 Tf 0 .501961 0 rg (def) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (edits1) Tj 0 0 0 rg (\() Tj (word) Tj (\):) Tj  T* (    ) Tj (n) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (len) Tj 0 0 0 rg (\() Tj (word) Tj (\)) Tj  T* (    ) Tj /F4 10 Tf 0 .501961 0 rg (return) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (set) Tj (\([) Tj (word) Tj ([) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj (i) Tj (]) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg (word) Tj ([) Tj (i) Tj .4 .4 .4 rg (+) Tj (1) Tj 0 0 0 rg (:]) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (i) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 .501961 0 rg (range) Tj 0 0 0 rg (\() Tj (n) Tj (\)]) Tj ( ) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg (                     ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# deletion) Tj /F5 10 Tf 0 0 0 rg  T* (               ) Tj ([) Tj (word) Tj ([) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj (i) Tj (]) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg (word) Tj ([) Tj (i) Tj .4 .4 .4 rg (+) Tj (1) Tj 0 0 0 rg (]) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg (word) Tj ([) Tj (i) Tj (]) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg (word) Tj ([) Tj (i) Tj .4 .4 .4 rg (+) Tj (2) Tj 0 0 0 rg (:]) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (i) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 .501961 0 rg (range) Tj 0 0 0 rg (\() Tj (n) Tj .4 .4 .4 rg (-) Tj (1) Tj 0 0 0 rg (\)]) Tj ( ) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg ( ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# transposition) Tj /F5 10 Tf 0 0 0 rg  T* (               ) Tj ([) Tj (word) Tj ([) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj (i) Tj (]) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg (c) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg (word) Tj ([) Tj (i) Tj .4 .4 .4 rg (+) Tj (1) Tj 0 0 0 rg (:]) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (i) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 .501961 0 rg (range) Tj 0 0 0 rg (\() Tj (n) Tj (\)) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (c) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (alphabet) Tj (]) Tj ( ) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg ( ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# alteration) Tj /F5 10 Tf 0 0 0 rg  T* (               ) Tj ([) Tj (word) Tj ([) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj (i) Tj (]) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg (c) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg (word) Tj ([) Tj (i) Tj (:]) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (i) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 .501961 0 rg (range) Tj 0 0 0 rg (\() Tj (n) Tj .4 .4 .4 rg (+) Tj (1) Tj 0 0 0 rg (\)) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (c) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (alphabet) Tj (]\)) Tj (  ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# insertion) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 153.97 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.044331 Tw (El 80% de los errores son a distancia 1. Si queres distancia 2 \(95% de los errores\), es) Tj T* 0 Tw (usar edits1 dos veces ;-\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 108.77 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 397.8236 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F4 10 Tf 0 .501961 0 rg (def) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (edits2) Tj 0 0 0 rg (\() Tj (word) Tj (\):) Tj  T* (    ) Tj /F4 10 Tf 0 .501961 0 rg (return) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (set) Tj (\() Tj (e2) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (e1) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (edits1) Tj (\() Tj (word) Tj (\)) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (e2) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (edits1) Tj (\() Tj (e1) Tj (\)\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 100.77 cm
+Q
+q
+1 0 0 1 14.17323 322.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 179.6718 0 Td (CODIGO!!!!) Tj T* -179.6718 0 Td ET
+Q
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 202.7318 0 Td (8) Tj T* -202.7318 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R43': class PDFStream 
+43 0 obj
+% page stream
+<< /Length 2156 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 316.4882 cm
+Q
+q
+1 0 0 1 20.17323 295.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 8.435 Tm /F2 17.5 Tf 21 TL (SON DEMASIADAS!) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 289.4882 cm
+Q
+q
+1 0 0 1 20.17323 259.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.662586 Tw (En realidad, edits2 da MUCHO. Entonces descartamos todo lo que no puede ser una) Tj T* 0 Tw (correccion porque nunca lo vimos escrito en un texto \(tiene P\(c\)=0\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 141.0353 cm
+q
+q
+.829226 0 0 .829226 0 0 cm
+q
+1 0 0 1 6.6 7.959228 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 480 132 re B*
+Q
+q
+BT 1 0 0 1 0 113.71 Tm 12 TL /F4 10 Tf 0 .501961 0 rg (def) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (known_edits2) Tj 0 0 0 rg (\() Tj (word) Tj (\):) Tj  T* (    ) Tj /F4 10 Tf 0 .501961 0 rg (return) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (set) Tj (\() Tj (e2) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (e1) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (edits1) Tj (\() Tj (word) Tj (\)) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (e2) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (edits1) Tj (\() Tj (e1) Tj (\)) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (if) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (e2) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (NWORDS) Tj (\)) Tj  T*  T* 0 .501961 0 rg (len) Tj 0 0 0 rg (\() Tj (known_edits2) Tj (\() Tj .729412 .129412 .129412 rg ('something') Tj 0 0 0 rg (\)\)) Tj  T*  T* .4 .4 .4 rg (3) Tj 0 0 0 rg  T*  T* 0 .501961 0 rg (len) Tj 0 0 0 rg (\() Tj (edits2) Tj (\() Tj .729412 .129412 .129412 rg ('something') Tj 0 0 0 rg (\)) Tj  T*  T* .4 .4 .4 rg (114324) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 133.0353 cm
+Q
+q
+1 0 0 1 14.17323 322.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 159.1118 0 Td (SON DEMASIADAS!) Tj T* -159.1118 0 Td ET
+Q
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 202.7318 0 Td (9) Tj T* -202.7318 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R44': class PDFStream 
+44 0 obj
+% page stream
+<< /Length 4147 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 316.4882 cm
+Q
+q
+1 0 0 1 20.17323 295.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 8.435 Tm /F2 17.5 Tf 21 TL (ESTIMANDO P\(w|c\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 289.4882 cm
+Q
+q
+1 0 0 1 20.17323 225.6615 cm
+q
+q
+.76266 0 0 .76266 0 0 cm
+q
+1 0 0 1 6.6 8.653924 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 522 72 re B*
+Q
+q
+BT 1 0 0 1 0 53.71 Tm 12 TL /F4 10 Tf 0 .501961 0 rg (def) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (known) Tj 0 0 0 rg (\() Tj (words) Tj (\):) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (return) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (set) Tj (\() Tj (w) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (w) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (words) Tj ( ) Tj /F4 10 Tf 0 .501961 0 rg (if) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (w) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (NWORDS) Tj (\)) Tj  T*  T* /F4 10 Tf 0 .501961 0 rg (def) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (correct) Tj 0 0 0 rg (\() Tj (word) Tj (\):) Tj  T* (    ) Tj (candidates) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (known) Tj (\([) Tj (word) Tj (]\)) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (or) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (known) Tj (\() Tj (edits1) Tj (\() Tj (word) Tj (\)\)) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (or) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (known_edits2) Tj (\() Tj (word) Tj (\)) Tj ( ) Tj /F4 10 Tf .666667 .133333 1 rg (or) Tj /F5 10 Tf 0 0 0 rg ( ) Tj ([) Tj (word) Tj (]) Tj  T* (    ) Tj /F4 10 Tf 0 .501961 0 rg (return) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 .501961 0 rg (max) Tj 0 0 0 rg (\() Tj (candidates) Tj (,) Tj ( ) Tj (key) Tj .4 .4 .4 rg (=) Tj /F4 10 Tf 0 .501961 0 rg (lambda) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (w) Tj (:) Tj ( ) Tj (NWORDS) Tj ([) Tj (w) Tj (]\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 215.6615 cm
+Q
+q
+1 0 0 1 20.17323 203.6615 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (known descarta las palabras que nunca vimos en uso.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 141.6615 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 50 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 50 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (correct dice:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 26 48 cm
+Q
+q
+1 0 0 1 26 36 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (si word es conocida, la correccion es word. Si no...) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 24 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (si hay palabras conocidas a distancia 1, es la mas probable de esas. Si no...) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 12 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (si hay palabras conocidas a distancia 2, es la mas probable de esas. Si no....) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 0 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (me rindo) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 141.6615 cm
+Q
+q
+1 0 0 1 14.17323 322.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 160.3218 0 Td (ESTIMANDO P\(w|c\)) Tj T* -160.3218 0 Td ET
+Q
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 199.9518 0 Td (10) Tj T* -199.9518 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R45': class PDFStream 
+45 0 obj
+% page stream
+<< /Length 1107 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 316.4882 cm
+Q
+q
+1 0 0 1 20.17323 295.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 8.435 Tm /F2 17.5 Tf 21 TL (Y funciona????) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 289.4882 cm
+Q
+q
+1 0 0 1 20.17323 271.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Si:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 202.2882 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 397.8236 60 re B*
+Q
+q
+BT 1 0 0 1 0 41.71 Tm 12 TL /F4 10 Tf 0 0 .501961 rg (>) Tj (>) Tj (>) Tj ( ) Tj /F5 10 Tf 0 0 0 rg (correct) Tj (\() Tj .729412 .129412 .129412 rg ('speling') Tj 0 0 0 rg (\)) Tj  T* .501961 .501961 .501961 rg ('spelling') Tj T* (>) Tj (>) Tj (>) Tj (correct\('korrecter'\)) Tj T* ('corrector') Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 14.17323 322.4882 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 170.7668 0 Td (Y funciona????) Tj T* -170.7668 0 Td ET
+Q
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 199.9518 0 Td (11) Tj T* -199.9518 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+xref
+0 46
+0000000000 65535 f
+0000000113 00000 n
+0000000270 00000 n
+0000000435 00000 n
+0000000610 00000 n
+0000000791 00000 n
+0000001028 00000 n
+0000001329 00000 n
+0000001500 00000 n
+0000001659 00000 n
+0000001938 00000 n
+0000002218 00000 n
+0000002498 00000 n
+0000002778 00000 n
+0000003058 00000 n
+0000003340 00000 n
+0000003516 00000 n
+0000003796 00000 n
+0000004077 00000 n
+0000004358 00000 n
+0000004639 00000 n
+0000004777 00000 n
+0000004989 00000 n
+0000005115 00000 n
+0000005300 00000 n
+0000005458 00000 n
+0000005635 00000 n
+0000005796 00000 n
+0000005963 00000 n
+0000006177 00000 n
+0000006323 00000 n
+0000006483 00000 n
+0000006648 00000 n
+0000006816 00000 n
+0000006949 00000 n
+0000007146 00000 n
+0000008590 00000 n
+0000014024 00000 n
+0000017135 00000 n
+0000020646 00000 n
+0000021392 00000 n
+0000024587 00000 n
+0000027173 00000 n
+0000032290 00000 n
+0000034547 00000 n
+0000038795 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\205\362\362W6}:\275\253-\225\353\215p\234L) (\205\362\362W6}:\275\253-\225\353\215p\234L)] 
+
+ /Info 21 0 R
+ /Root 20 0 R
+ /Size 46 >>
+startxref
+39976
+%%EOF
