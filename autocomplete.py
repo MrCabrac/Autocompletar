@@ -12,6 +12,15 @@ import time
 import random
 import re
 
+def deText(text):
+    text = text.lower()
+    trans = str.maketrans('áéíóúü', 'aeiouu')
+    text = text.translate(trans) #remover tildes
+    text = ''.join([i for i in text if not i.isdigit()]) #remover números
+    text = re.sub('\W+', '', text)
+    return text
+#deText("-tamaño\n")
+
 class db():
     def __init__(self):
         self.dbName = "palabras.db"
@@ -24,7 +33,6 @@ class db():
         self.connectDB()
         sql = '''CREATE TABLE IF NOT EXISTS palabras (ID INTEGER PRIMARY KEY AUTOINCREMENT,
                                                       word TEXT NOT NULL,
-                                                      prob REAL NOT NULL DEFAULT 0,
                                                       uses NUMERIC NOT NULL DEFAULT 1)'''
         self.c.execute(sql)
         self.conn.commit()
@@ -49,9 +57,12 @@ class db():
             self.conn.commit()
             self.closeDB()
         else:
-            raise Exception("Esta palabra ya existe")
+            raise Exception("Esta palabra ya existe (", word, ")")
     
     def getWordId(self, number):
+        '''
+        Obtener una palabra por el ID
+        '''
         self.connectDB()
         sql = "SELECT * FROM palabras WHERE id==?"
         self.c.execute(sql, [str(number)])
@@ -62,6 +73,9 @@ class db():
         return word
     
     def getWord(self, word):
+        '''
+        Obtener si una palabra existe o no
+        '''
         self.connectDB()
         sql = "SELECT EXISTS(SELECT * FROM palabras WHERE word = ? LIMIT 1)"
         self.c.execute(sql, [word.lower()])
@@ -76,6 +90,9 @@ class db():
         return response
 
     def getUsesWord(self, word):
+        '''
+        Obtener el número de usos de una palabra
+        '''
         self.connectDB()
         sql = "SELECT uses FROM palabras WHERE word = ?"
         self.c.execute(sql, [word.lower()])
@@ -86,6 +103,9 @@ class db():
         return response
     
     def setUsesWord(self, word, uses):
+        '''
+        Cambiar el numero de usos de una palabra
+        '''
         self.connectDB()
         sql = "UPDATE palabras SET uses=? WHERE word=?"
         self.c.execute(sql, [uses, word.lower()])
@@ -93,6 +113,9 @@ class db():
         self.closeDB()
 
     def setProbWord(self, word, prob):
+        '''
+        Cambiar la probabilidad de uso de una palabra
+        '''
         self.connectDB()
         sql = "UPDATE palabras SET prob=? WHERE word=?"
         self.c.execute(sql, [prob, word.lower()])
@@ -100,8 +123,11 @@ class db():
         self.closeDB()
     
     def getWordInitials(self, initials):
+        '''
+        Obtener palabras por sus letras iniciales
+        '''
         self.connectDB()
-        sql = "select * from palabras where word like ?"
+        sql = "select * from palabras where word like ? ORDER BY uses DESC"
         self.c.execute(sql, [initials.lower()+"%"])
         words = list()
         for word in self.c:
@@ -111,13 +137,15 @@ class db():
         return words
     
     def getAllWords(self):
+        '''
+        Obtener TODAS las palabras
+        '''
         self.connectDB()
         sql = "select * from palabras"
         self.c.execute(sql)
         words = list()
         for word in self.c:
             words.append(word[1])
-            print(word)
         self.conn.commit()
         self.closeDB()
         return words
@@ -139,29 +167,19 @@ class wordManage():
                 numberWords = 0
         for wordList in wordsList:
             numberWords += len(wordList)
-        print("Número de palabras: ", numberWords)
+        print("Número de palabras aparante: ", numberWords)
         
         completed = 0;
         for wordList in wordsList:
             for word in wordList:
                 try:
                     toSave = word.split(',')[0].rstrip()
-                    print(toSave)
+                    toSave = deText(toSave)
                     database.insertWord(toSave)
-                except:
-                    pass
+                except Exception as error:
+                    print(error)
                 completed+=1
                 print(str(completed)+"/"+str(numberWords)+"  --  "+str((completed/numberWords)*100)+"%", end="\r")
-
-def createDataBase():
-    '''Create DataBase'''
-    words = wordManage()
-    words.readAllFiles()
-    a = time.time()
-    words.getWordsList()
-    b = time.time()
-    result = b-a
-    print(result)
 
 class AutoComplete(object):
     def __init__(self):
@@ -171,8 +189,9 @@ class AutoComplete(object):
         '''
         Guardar cada una de las palabras que tiene la oración
         '''
-        sentence = sentence.lower()
-        newWords = sentence.split(" ")
+        #Tratamiento al texto
+        sentence = deText(sentence)
+        newWords = sentence.split(" ") #separar palabras
         database = db()
         words = list()
         words = database.getAllWords()#obtener las palabras actuales
@@ -196,7 +215,7 @@ class AutoComplete(object):
                 uses+=1#Sumar 1 uso
                 database.setUsesWord(toSave, uses)#Guardar numero de usos
         
-        self.calculateAndSaveProb()
+        #self.calculateAndSaveProb() #Guardar probabilidad
 
     def calculateAndSaveProb(Self):
         '''
@@ -229,21 +248,24 @@ class AutoComplete(object):
             sentence+=word+" "
         return sentence
 
-#Escribir una oración
-autocomplete = AutoComplete()
+class corrector(object):
+    '''Corrector de palabras utilizando la distancia de Levenshtein'''
 
-
-
-
-
-oracion = "Dirigir empresas digitales exige formación multidisciplinar. Aprende las competencias necesarias en este Master."
-a,b = 'áéíóúü','aeiouu'
-
-trans = str.maketrans(a,b)
-
-oracion = oracion.translate(trans)
-oracion = ''.join([i for i in oracion if not i.isdigit()])
-print(oracion)
-autocomplete.saveSentence(oracion)
+def createDataBase():
+    '''Create DataBase apartir del diccionario de palabras'''
+    words = wordManage()
+    words.readAllFiles()
+    a = time.time()
+    words.getWordsList()
+    b = time.time()
+    result = b-a
+    print(result)
 
 #createDataBase()
+
+
+
+#Escribir una oración
+#autocomplete = AutoComplete()
+#oracion = "Dirigir empresas digitales exige formación multidisciplinar. Aprende las competencias necesarias en este Master."
+#autocomplete.saveSentence(oracion)

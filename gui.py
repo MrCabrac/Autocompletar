@@ -101,7 +101,8 @@ class MyApp(QtWidgets.QMainWindow, Ui_MainWindow):
         print("Guardar oración")
         self.plainTextEdit.clear()
         autocomplete = AutoComplete()
-        autocomplete.saveSentence(self.oracion)
+        for palabra in self.list_words:
+            autocomplete.saveSentence(palabra)
         self.oracion = str()
 
 

@@ -1,7 +1,4 @@
-l
-la1
-la2
-la3
+la
 lábaro
 labe
 labeo

@@ -1,4 +1,5 @@
-aba
+aba1
+aba2
 abaá
 ababol
 abacá
@@ -22,7 +23,6 @@ abadía
 abadiado
 abadiato
 abadillarse
-ab aeterno
 abajamiento
 abajar
 abajeño, ña
@@ -34,13 +34,10 @@ abalanzar
 abalaustrado, da
 abalconado, da
 abaldonar
-abalear1
-abalear2
-abaleo1
-abaleo2
+abalear
+abaleo
 abalizar
-aballar1
-aballar2
+aballar
 aballestar
 abalorio
 abaluartar
@@ -188,12 +185,9 @@ abigarrar
 abigeato
 abigeo
 abigotado, da
-ab initio
-ab intestato
 abiogénesis
 abiótico, ca
 abipón, na
-ab irato
 abisagrar
 abisal
 abiselar
@@ -221,7 +215,7 @@ ablano
 ablativo2, va
 ablativo3, va
 ablatorio, ria
--able
+able
 ablegado
 ablentar
 ablución
@@ -251,8 +245,7 @@ abochornante
 abochornar
 abocinado, da
 abocinamiento
-abocinar1
-abocinar2
+abocinar
 abofado, da
 abofarse
 abofeteador, ra
@@ -271,33 +264,29 @@ abolición
 abolicionismo
 abolicionista
 abolir
-abollado1, da
-abollado2, da
+abollado
+abollada
 abolladura
-abollar1
-abollar2
+abollar
 abollón
 abollonar
 abolorio
 abolsado, da
 abolsarse
 abomaso
-abombado1, da
-abombado1, da
-abombamiento1
-abombamiento2
-abombar1
-abombar2
+abombado
+abombada
+abombamiento
+abombar
 abominable
 abominablemente
 abominación
 abominar
 abonable
-abonado1, da
-abonado2, da
+abonado
+abonada
 abonanzar
-abonar1
-abonar2
+abonar
 abonaré
 abondado, da
 abondamiento
@@ -305,8 +294,7 @@ abondar
 abondo
 abondoso, sa
 abonero, ra
-abono1
-abono2
+abono
 aboquillado, da
 aboquillar
 aboral
@@ -346,8 +334,7 @@ abotonadura
 abotonar
 abovedar
 ab ovo
-aboyar1
-aboyar2
+aboyar
 abozalar
 abra
 abracadabra
@@ -867,7 +854,8 @@ acentuamiento
 acentuar
 aceña
 aceñero, ra
--áceo, a
+áceo
+ácea
 acepar
 acepción
 acepilladura
@@ -887,8 +875,7 @@ acequiero
 acera
 aceráceo, a
 aceración
-acerar1
-acerar2
+acerar
 acerbadamente
 acerbidad
 acerbo, ba
@@ -931,8 +918,8 @@ acetilcolina
 acetileno
 acetilo
 acetilsalicílico
-aceto1
-aceto2, ta
+aceto
+aceta
 acetona
 acetosa
 acetosilla
