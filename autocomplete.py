@@ -43,9 +43,9 @@ class db():
         exist = self.getWord(word)
         if not exist: #Si no existe la palabra
             self.connectDB()
-            palabra = [word]
+            palabra = [word][0].lower()
             sql = '''INSERT INTO palabras (word) VALUES (?)'''
-            self.c.execute(sql, [palabra[0].lower()])
+            self.c.execute(sql, [palabra])
             self.conn.commit()
             self.closeDB()
         else:
@@ -186,8 +186,10 @@ class AutoComplete(object):
         for word in newWords:
             toSave = re.sub('\W+', '', word) #palabra a guardar
             try:
-                database.insertWord(toSave)
-                
+                if not len(toSave)==0:
+                    database.insertWord(toSave)
+                else:
+                    continue
             except Exception as error:
                 #Si la palabra existe, sumar un uso
                 uses = database.getUsesWord(toSave)#Leer numero de usos
@@ -228,9 +230,20 @@ class AutoComplete(object):
         return sentence
 
 #Escribir una oración
-#autocomplete = AutoComplete()
+autocomplete = AutoComplete()
 
-#oracion = "Contenido no disponible"
-#autocomplete.saveSentence(oracion)
+
+
+
+
+oracion = "Dirigir empresas digitales exige formación multidisciplinar. Aprende las competencias necesarias en este Master."
+a,b = 'áéíóúü','aeiouu'
+
+trans = str.maketrans(a,b)
+
+oracion = oracion.translate(trans)
+oracion = ''.join([i for i in oracion if not i.isdigit()])
+print(oracion)
+autocomplete.saveSentence(oracion)
 
 #createDataBase()
