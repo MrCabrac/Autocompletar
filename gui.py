@@ -110,8 +110,8 @@ class MyApp(QtWidgets.QMainWindow, Ui_MainWindow):
         autocomplete = AutoComplete()
         for palabra in self.list_words:
             autocomplete.saveSentence(palabra)
+        autocomplete.saveRelationatedWords(self.list_words)
         self.oracion = str()
-
 
 if __name__ == "__main__":
     app =  QtWidgets.QApplication(sys.argv)

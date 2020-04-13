@@ -339,7 +339,7 @@
      </rect>
     </property>
     <property name="title">
-     <string>GroupBox</string>
+     <string>Opciones</string>
     </property>
     <widget class="QWidget" name="horizontalLayoutWidget">
      <property name="geometry">

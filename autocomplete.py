@@ -72,6 +72,7 @@ class db():
         '''
         Insertar una relacion de palabras para autocompletar en la base de datos
         '''
+        print("insertRelationedWords>iniciando")
         info = self.getRelationedWords(word1, word2)
         self.connectDB()
         if not info[0]: #Si la relacion no existe
@@ -84,9 +85,8 @@ class db():
             sql = "UPDATE {} SET uses=? WHERE word=?".format(self.sentencesDictonaryTableName)
             self.c.execute(sql, [int(info[1])+1, word1])
         self.conn.commit()
-        self.closeDB()
-            
-    
+        self.closeDB()   
+
     def getWordId(self, number):
         '''
         Obtener una palabra por el ID
@@ -173,16 +173,6 @@ class db():
         self.conn.commit()
         self.closeDB()
 
-    def setProbWord(self, word, prob):
-        '''
-        Cambiar la probabilidad de uso de una palabra
-        '''
-        self.connectDB()
-        sql = "UPDATE {} SET prob=? WHERE word=?".format(self.wordsDictionaryTableName)
-        self.c.execute(sql, [prob, word.lower()])
-        self.conn.commit()
-        self.closeDB()
-    
     def getWordInitials(self, initials):
         '''
         Obtener palabras por sus letras iniciales
@@ -210,7 +200,7 @@ class db():
         self.conn.commit()
         self.closeDB()
         return words
-    
+
 class wordManage():
     def __init__(self):
         self.files = list()
@@ -274,30 +264,23 @@ class AutoComplete(object):
                 uses = database.getUsesWord(toSave)#Leer numero de usos
                 uses+=1#Sumar 1 uso
                 database.setUsesWord(toSave, uses)#Guardar numero de usos
-        
-        #Guardar las relaciones entre palabras
+
+    def saveRelationatedWords(self, wordsList):
+        '''
+        Guardar las relaciones entre palabras
+        '''
+        print("wordsList:", wordsList)
+        database = db()
         complements = list()#Obtener todos los pares
-        for i, palabra in enumerate(newWords):
-            if i<len(newWords)-1:
-                complements.append([palabra, newWords[i+1]])
+        for i, palabra in enumerate(wordsList):
+            if i<len(wordsList)-1:
+                complements.append([palabra, wordsList[i+1]])
             else:
                 break
         #guardar cada complemento
+        print("complements:", complements)
         for complement in complements:
             database.insertRelationedWords(complement[0], complement[1])
-        #self.calculateAndSaveProb() #Guardar probabilidad
-
-    def calculateAndSaveProb(Self):
-        '''
-        Calcular y guardar la probabilidad de uso de cada palabra
-        '''
-        database = db()
-        words = database.getAllWords() #obtener todas las palabras en la base de datos
-        numberWords = len(words) #obtener su cantidad
-        for word in words:
-            uses = database.getUsesWord(word)
-            prob = uses/numberWords #Hacer probabilidad de uso
-            database.setProbWord(word, prob) #guardar probabilidad
 
     def showOptions(self, initials):
         '''
@@ -327,12 +310,6 @@ class AutoComplete(object):
         db2.conn.commit()
         db2.closeDB()
         return opciones
-    
-    def listToSentence(self, lista):
-        sentence = str()
-        for word in lista:
-            sentence+=word+" "
-        return sentence
 
 class corrector(object):
     '''Corrector de palabras utilizando la distancia de Levenshtein'''
