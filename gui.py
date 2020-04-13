@@ -89,7 +89,14 @@ class MyApp(QtWidgets.QMainWindow, Ui_MainWindow):
         self.plainTextEdit.insertPlainText(self.oracion)
         #Buscar opciones para completar
         autocomplete = AutoComplete()
-        words = autocomplete.showOptions(self.AutoWord)
+        words = ["", "", ""]
+        if len(self.AutoWord) == 0 and len(self.oracion)>0:
+            print("Autoword vacio")
+            print("Listwords:", self.list_words)
+            print("ultima:", self.list_words[-2])
+            words = autocomplete.showRelationaledWords(self.list_words[-2])
+        else:
+            words = autocomplete.showOptions(self.AutoWord)
         self.word.setText(self.AutoWord)
         opciones = list()
         opsBtn = [self.op1, self.op2, self.op3]
